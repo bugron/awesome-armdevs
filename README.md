@@ -13,4 +13,13 @@
  - [Sevak Mangasaryan](https://www.youtube.com/channel/UC2nPaTCjhDvN-PaJylsCynQ)
 
 # Translations
- - [Armen Badalian](https://github.com/armenbadal)
+ - Armen Badalian - [GitHub](https://github.com/armenbadal) - [Blog](https://armenbadal.blogspot.com)
+
+# Systems Engineering
+- [Antranig Vartanian](https://antranigv.am) - [Blog](https://antranigv.am/weblog)
+
+# PodCasts
+- [Ցանցառներ Ռադիօ](https://ցանցառներ.հայ) - [YouTube](https://www.youtube.com/channel/UCLjhnWg0f3BeJATvFiLnrJw)
+
+# Education
+- [Արտակ Կոլյան](http://ablog.gratun.am)
