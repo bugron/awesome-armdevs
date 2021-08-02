@@ -19,6 +19,7 @@
 - [Antranig Vartanian](https://antranigv.am) - [Blog](https://antranigv.am/weblog)
 
 # PodCasts
+<!-- markdown-link-check-disable-next-line -->
 - [Ցանցառներ Ռադիօ](https://ցանցառներ.հայ) - [YouTube](https://www.youtube.com/channel/UCLjhnWg0f3BeJATvFiLnrJw)
 
 # Education
