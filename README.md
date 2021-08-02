@@ -9,5 +9,8 @@ A curated list of YouTube channels, GitHub handles, personal blogs of Armenian d
  - [Ruben Meschian](https://www.youtube.com/channel/UC6YafiOh8B3Vk92sJIivKfQ)
  - [Voskan Voskanyan](https://www.youtube.com/channel/UCM-WcW362CNf1oW_rglnphg)
 
+# Software Testing
+ - [Sevak Mangasaryan](https://www.youtube.com/channel/UC2nPaTCjhDvN-PaJylsCynQ)
+
 # Translations
  - [Armen Badalian](https://github.com/armenbadal)
