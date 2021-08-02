@@ -13,4 +13,4 @@
  - [Sevak Mangasaryan](https://www.youtube.com/channel/UC2nPaTCjhDvN-PaJylsCynQ)
 
 # Translations
- - [Armen Badalian](https://github.com/armenbadal)
+ - Armen Badalian - [GitHub](https://github.com/armenbadal) - [Blog](https://armenbadal.blogspot.com)
