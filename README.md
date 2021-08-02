@@ -17,3 +17,6 @@
 
 # Systems Engineering
 - [Antranig Vartanian](https://antranigv.am) - [Blog](https://antranigv.am/weblog)
+
+# PodCasts
+- [Ցանցառներ Ռադիօ](https://ցանցառներ.հայ) - [YouTube](https://www.youtube.com/channel/UCLjhnWg0f3BeJATvFiLnrJw)
