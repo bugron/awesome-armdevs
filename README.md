@@ -14,3 +14,6 @@
 
 # Translations
  - Armen Badalian - [GitHub](https://github.com/armenbadal) - [Blog](https://armenbadal.blogspot.com)
+
+# Systems Engineering
+- [Antranig Vartanian](https://antranigv.am) - [Blog](https://antranigv.am/weblog)
