@@ -1,7 +1,7 @@
 [![Validate Markdown links](https://github.com/bugron/awesome-armdevs/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/bugron/awesome-armdevs/actions/workflows/action.yml)
 
 # Awesome ArmDevs
-A curated list of YouTube channels, GitHub handles, personal blogs of Armenian developers.
+> A curated list of YouTube channels, GitHub handles, personal blogs of Armenian developers who create educational content.
 
 # Web development
  - [Anushavan Yeghiazaryan](https://www.youtube.com/channel/UC5AwFStjKriygl8801193Bw)
