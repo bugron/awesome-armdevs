@@ -24,3 +24,6 @@
 
 # Education
 - [Արտակ Կոլյան](http://ablog.gratun.am)
+
+# Machine Learning
+- Խորեն Պետրոսյան - [twitter](https://twitter.com/x_p_22)
