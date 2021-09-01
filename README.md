@@ -17,6 +17,7 @@
 
 # Systems Engineering
 - [Antranig Vartanian](https://antranigv.am) - [Blog](https://antranigv.am/weblog)
+- Noah Altunian - [GitHub](https://github.com/naltun)
 
 # PodCasts
 <!-- markdown-link-check-disable-next-line -->
