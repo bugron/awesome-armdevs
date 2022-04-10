@@ -4,10 +4,14 @@
 > A curated list of YouTube channels, GitHub handles, personal blogs of Armenian developers who create educational content.
 
 # Web development
+ - Gaspar Galenteryan - [YouTube](https://youtube.com/c/GalentTeam)
  - Anushavan Yeghiazaryan - [YouTube](https://www.youtube.com/channel/UC5AwFStjKriygl8801193Bw)
  - Nairi Harutyunyan - [YouTube](https://www.youtube.com/channel/UC-AcoaEH4rzJG7cLT1Wk5AA)
  - Ruben Meschian - [YouTube](https://www.youtube.com/channel/UC6YafiOh8B3Vk92sJIivKfQ)
  - Voskan Voskanyan - [YouTube](https://www.youtube.com/channel/UCM-WcW362CNf1oW_rglnphg)
+
+# cheat-sheet
+- [Weber.am](https://weber.am)
 
 # Software Testing
  - Sevak Mangasaryan - [YouTube](https://www.youtube.com/channel/UC2nPaTCjhDvN-PaJylsCynQ)
@@ -25,6 +29,7 @@
 
 # Education
 - [Արտակ Կոլյան](http://ablog.gratun.am)
+- [Galent.am](http://galent.am)
 
 # Machine Learning
 - Խորեն Պետրոսյան - [Twitter](https://twitter.com/x_p_22)
