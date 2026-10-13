@@ -28,3 +28,7 @@
 
 # Machine Learning
 - Խորեն Պետրոսյան - [Twitter](https://twitter.com/x_p_22)
+
+# Data Science / Statistics
+- Samvel Gasparyan - [GitHub](https://github.com/Samve) - [ArmR: R lectures in Armenian](https://github.com/Samve/ArmR)
+  
